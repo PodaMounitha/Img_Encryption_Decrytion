@@ -112,7 +112,7 @@ Retrieve and view the hidden data from the encrypted image.
 
 📜 License:
 
-This project is licensed under the MIT License. See the LICENSE file for details. 📄
+This project is licensed under the MIT License.
 
 🙋‍♂️ Need Help?
 
